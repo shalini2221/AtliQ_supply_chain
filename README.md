@@ -3,10 +3,6 @@ Codebasics roll out monthly resume challenges that exercises the business domain
 
 These challenges are valuable for my growth. And I appreciate codebasics for coming up with such opportunity.
 
-Challenge Link
-
-My LinkedIN Submission Link
-
 Problem Statement
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
 
